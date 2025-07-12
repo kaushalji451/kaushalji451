@@ -25,7 +25,7 @@
 ---
 
 ### 🏆 GitHub Trophies:
-[![trophy](https://github-profile-trophy.vercel.app/?username=your_username&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+[[![trophy](https://github-profile-trophy.vercel.app/?username=your_username&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)](https://github-profile-trophy.vercel.app/?username=kaushalji451&theme=light)
 
 ---
 
